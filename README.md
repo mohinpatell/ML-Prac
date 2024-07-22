@@ -1,5 +1,5 @@
 # ML-Prac
-Practice based ML learning using Python / Jupyter Notebook
+Project based ML learning using Python / Jupyter Notebook
 
 
 ( For LinearRegression folder )
